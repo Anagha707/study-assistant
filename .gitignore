@@ -1,14 +1,21 @@
-﻿# secrets and local data
+﻿# Secrets and local data
+.env
+.env.*
+!.env.example
 backend/.env
 backend/db.sqlite3
 backend/chroma_db/
 backend/media/
 backend/venv/
+backend/.venv/
+venv/
+.venv/
 __pycache__/
 *.pyc
 
-# frontend
+# Frontend
 frontend/node_modules/
 frontend/dist/
 
+# VS Code workspace
 *.code-workspace
