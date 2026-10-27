@@ -1,0 +1,9 @@
+.steps { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 10px; padding: 10px 14px; margin-bottom: 12px; font-size: 13px; }
+.steps b { display: block; margin-bottom: 4px; color: #475569; }
+.step { padding: 3px 0; color: #334155; }
+.step code { background: #e0e7ff; color: #3730a3; padding: 1px 6px; border-radius: 4px; font-size: 12px; }
+.chips { display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0; }
+.chip { background: #eef2ff; color: #3730a3; border: 1px solid #c7d2fe; padding: 7px 12px; border-radius: 20px; cursor: pointer; font-size: 13px; }
+.chip:hover { background: #e0e7ff; }
+.agent-quiz { background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 12px; padding: 14px; margin-top: 12px; }
+.bubble.wide { max-width: 92%; }
